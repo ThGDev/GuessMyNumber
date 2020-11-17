@@ -1,0 +1,26 @@
+body{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    box-sizing: content-box;
+}
+#contenu{
+    width: 80vw;
+}
+#result{
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 5px;
+    width: 80%;
+}
+.soixante{
+    width: 60%;
+}
+strong{
+    color: #fff;
+}
+.cache {
+    display: none;
+}
